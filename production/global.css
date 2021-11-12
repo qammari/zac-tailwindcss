@@ -107,10 +107,10 @@
   --spacing-08: 8px;
   --font-families-sans: Inter;
   --font-families-mono: Roboto Mono;
-  --font-weights-regular: regular;
-  --font-weights-medium: medium;
-  --font-weights-semibold: semibold;
-  --font-weights-bold: bold;
+  --font-weights-regular: 400;
+  --font-weights-medium: 500;
+  --font-weights-semibold: 600;
+  --font-weights-bold: 700;
   --font-sizes-12: 12px;
   --font-sizes-14: 14px;
   --font-sizes-16: 16px;
