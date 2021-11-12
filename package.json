@@ -5,7 +5,6 @@
   "author": "Zyda",
   "license": "ISC",
   "main": "index.js",
-  "private": "false",
   "scripts": {
     "build-transform-light": "npx token-transformer tokens.json tokens/light.json global,light,theme global",
     "build-transform-dark": "npx token-transformer tokens.json tokens/dark.json global,dark,theme global",
