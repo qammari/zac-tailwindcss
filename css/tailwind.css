@@ -1,3 +1,8 @@
+@import url('../production/global.css');
+@import url('../production/light.css');
+@import url('../production/dark.css');
+@import url('../production/typography-default.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
