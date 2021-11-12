@@ -1,0 +1,100 @@
+{
+  "theme": {
+    "positive": {
+      "absolute": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#fffffff0",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#ffffffa6",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#ffffff59",
+        "type": "color"
+      },
+      "quaternary": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "background": {
+        "value": "#ffffff1a",
+        "type": "color"
+      }
+    },
+    "negative": {
+      "absolute": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#1f1f1f",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#1f1f1fbf",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#1f1f1f59",
+        "type": "color"
+      },
+      "quaternary": {
+        "value": "#1f1f1f1f",
+        "type": "color"
+      },
+      "background": {
+        "value": "#1f1f1f0d",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "primary": {
+        "value": "#3e85ff",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#196eff",
+        "type": "color"
+      },
+      "presed": {
+        "value": "#75a8ff",
+        "type": "color"
+      },
+      "opacity-50": {
+        "value": "#3e85ff80",
+        "type": "color"
+      },
+      "opacity-30": {
+        "value": "#3e85ff4d",
+        "type": "color"
+      },
+      "opacity-10": {
+        "value": "#3e85ff1a",
+        "type": "color"
+      }
+    },
+    "support": {
+      "info": {
+        "value": "#3e85ff",
+        "type": "color"
+      },
+      "success": {
+        "value": "#57a977",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#f0c229",
+        "type": "color"
+      },
+      "danger": {
+        "value": "#e56565",
+        "type": "color"
+      }
+    }
+  }
+}
