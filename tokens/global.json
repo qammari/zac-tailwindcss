@@ -346,6 +346,22 @@
     }
   },
   "sizing": {
+    "02": {
+      "value": "2",
+      "type": "sizing"
+    },
+    "04": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "06": {
+      "value": "6",
+      "type": "sizing"
+    },
+    "08": {
+      "value": "8",
+      "type": "sizing"
+    },
     "10": {
       "value": "10",
       "type": "sizing"
@@ -362,87 +378,239 @@
       "value": "16",
       "type": "sizing"
     },
+    "18": {
+      "value": "18",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "22": {
+      "value": "22",
+      "type": "sizing"
+    },
     "24": {
       "value": "24",
+      "type": "sizing"
+    },
+    "26": {
+      "value": "26",
+      "type": "sizing"
+    },
+    "28": {
+      "value": "28",
       "type": "sizing"
     },
     "32": {
       "value": "32",
       "type": "sizing"
     },
+    "36": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "48": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "56": {
+      "value": "56",
+      "type": "sizing"
+    },
     "64": {
       "value": "64",
+      "type": "sizing"
+    },
+    "72": {
+      "value": "72",
+      "type": "sizing"
+    },
+    "80": {
+      "value": "80",
+      "type": "sizing"
+    },
+    "88": {
+      "value": "88",
+      "type": "sizing"
+    },
+    "96": {
+      "value": "96",
+      "type": "sizing"
+    },
+    "104": {
+      "value": "104",
+      "type": "sizing"
+    },
+    "112": {
+      "value": "112",
+      "type": "sizing"
+    },
+    "120": {
+      "value": "120",
       "type": "sizing"
     },
     "128": {
       "value": "128",
       "type": "sizing"
     },
+    "136": {
+      "value": "136",
+      "type": "sizing"
+    },
+    "144": {
+      "value": "144",
+      "type": "sizing"
+    },
+    "152": {
+      "value": "152",
+      "type": "sizing"
+    },
+    "160": {
+      "value": "160",
+      "type": "sizing"
+    },
     "256": {
       "value": "256",
-      "type": "sizing"
-    },
-    "04": {
-      "value": "4",
-      "type": "sizing"
-    },
-    "06": {
-      "value": "6",
-      "type": "sizing"
-    },
-    "08": {
-      "value": "8",
       "type": "sizing"
     }
   },
   "spacing": {
-    "10": {
-      "value": "10",
-      "type": "spacing"
-    },
-    "12": {
-      "value": "12",
-      "type": "spacing"
-    },
-    "14": {
-      "value": "14",
-      "type": "spacing"
-    },
-    "16": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "24": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "32": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "64": {
-      "value": "64",
-      "type": "spacing"
-    },
-    "128": {
-      "value": "128",
-      "type": "spacing"
-    },
-    "256": {
-      "value": "256",
-      "type": "spacing"
+    "02": {
+      "value": "2",
+      "type": "sizing"
     },
     "04": {
       "value": "4",
-      "type": "spacing"
+      "type": "sizing"
     },
     "06": {
       "value": "6",
-      "type": "spacing"
+      "type": "sizing"
     },
     "08": {
       "value": "8",
-      "type": "spacing"
+      "type": "sizing"
+    },
+    "10": {
+      "value": "10",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "14": {
+      "value": "14",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "18": {
+      "value": "18",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "22": {
+      "value": "22",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "26": {
+      "value": "26",
+      "type": "sizing"
+    },
+    "28": {
+      "value": "28",
+      "type": "sizing"
+    },
+    "32": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "36": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "48": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "56": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "64": {
+      "value": "64",
+      "type": "sizing"
+    },
+    "72": {
+      "value": "72",
+      "type": "sizing"
+    },
+    "80": {
+      "value": "80",
+      "type": "sizing"
+    },
+    "88": {
+      "value": "88",
+      "type": "sizing"
+    },
+    "96": {
+      "value": "96",
+      "type": "sizing"
+    },
+    "104": {
+      "value": "104",
+      "type": "sizing"
+    },
+    "112": {
+      "value": "112",
+      "type": "sizing"
+    },
+    "120": {
+      "value": "120",
+      "type": "sizing"
+    },
+    "128": {
+      "value": "128",
+      "type": "sizing"
+    },
+    "136": {
+      "value": "136",
+      "type": "sizing"
+    },
+    "144": {
+      "value": "144",
+      "type": "sizing"
+    },
+    "152": {
+      "value": "152",
+      "type": "sizing"
+    },
+    "160": {
+      "value": "160",
+      "type": "sizing"
+    },
+    "256": {
+      "value": "256",
+      "type": "sizing"
     }
   },
   "fontFamilies": {
