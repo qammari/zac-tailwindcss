@@ -78,21 +78,107 @@
         "type": "color"
       }
     },
-    "support": {
-      "info": {
+    "info": {
+      "primary": {
         "value": "#3e85ff",
         "type": "color"
       },
-      "success": {
+      "hover": {
+        "value": "#196eff",
+        "type": "color"
+      },
+      "presed": {
+        "value": "#75a8ff",
+        "type": "color"
+      },
+      "opacity-50": {
+        "value": "#3e85ff80",
+        "type": "color"
+      },
+      "opacity-30": {
+        "value": "#3e85ff4d",
+        "type": "color"
+      },
+      "opacity-10": {
+        "value": "#3e85ff1a",
+        "type": "color"
+      }
+    },
+    "success": {
+      "primary": {
         "value": "#57a977",
         "type": "color"
       },
-      "warning": {
+      "hover": {
+        "value": "#37995d",
+        "type": "color"
+      },
+      "presed": {
+        "value": "#87c29e",
+        "type": "color"
+      },
+      "opacity-50": {
+        "value": "#57a97780",
+        "type": "color"
+      },
+      "opacity-30": {
+        "value": "#57a9774d",
+        "type": "color"
+      },
+      "opacity-10": {
+        "value": "#57a9771a",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "primary": {
         "value": "#f0c229",
         "type": "color"
       },
-      "danger": {
+      "hover": {
+        "value": "#edb600",
+        "type": "color"
+      },
+      "presed": {
+        "value": "#f4d366",
+        "type": "color"
+      },
+      "opacity-50": {
+        "value": "#f0c22980",
+        "type": "color"
+      },
+      "opacity-30": {
+        "value": "#f0c2294d",
+        "type": "color"
+      },
+      "opacity-10": {
+        "value": "#f0c2291a",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "primary": {
         "value": "#e56565",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#e04848",
+        "type": "color"
+      },
+      "presed": {
+        "value": "#ec9191",
+        "type": "color"
+      },
+      "opacity-50": {
+        "value": "#e5656580",
+        "type": "color"
+      },
+      "opacity-30": {
+        "value": "#e565654d",
+        "type": "color"
+      },
+      "opacity-10": {
+        "value": "#e565651a",
         "type": "color"
       }
     }
