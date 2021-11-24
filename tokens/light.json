@@ -61,7 +61,7 @@
         "value": "#3e85ff",
         "type": "color"
       },
-      "presed": {
+      "pressed": {
         "value": "#1354c2",
         "type": "color"
       },
@@ -87,7 +87,7 @@
         "value": "#3e85ff",
         "type": "color"
       },
-      "presed": {
+      "pressed": {
         "value": "#1354c2",
         "type": "color"
       },
@@ -113,7 +113,7 @@
         "value": "#57a977",
         "type": "color"
       },
-      "presed": {
+      "pressed": {
         "value": "#2a7447",
         "type": "color"
       },
@@ -139,7 +139,7 @@
         "value": "#f0c229",
         "type": "color"
       },
-      "presed": {
+      "pressed": {
         "value": "#b48a00",
         "type": "color"
       },
@@ -165,7 +165,7 @@
         "value": "#e56565",
         "type": "color"
       },
-      "presed": {
+      "pressed": {
         "value": "#aa3737",
         "type": "color"
       },
