@@ -497,7 +497,7 @@
           "value": 12
         },
         "fontWeight": {
-          "value": 700
+          "value": 500
         },
         "lineHeight": {
           "value": 16
@@ -517,7 +517,7 @@
           "value": 14
         },
         "fontWeight": {
-          "value": 700
+          "value": 500
         },
         "lineHeight": {
           "value": 20
@@ -537,7 +537,7 @@
           "value": 16
         },
         "fontWeight": {
-          "value": 700
+          "value": 500
         },
         "lineHeight": {
           "value": 24
