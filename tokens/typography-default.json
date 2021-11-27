@@ -222,7 +222,7 @@
         }
       }
     },
-    "text": {
+    "body": {
       "12": {
         "fontFamily": {
           "value": "Inter"
