@@ -199,4 +199,8 @@
   --border-radius-16: 16px;
   --border-radius-none: 0px;
   --border-radius-full: 9999px;
+  --box-shadow-1: [object Object];
+  --box-shadow-2: [object Object];
+  --box-shadow-3: [object Object];
+  --box-shadow-4: [object Object];
 }
