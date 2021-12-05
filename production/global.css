@@ -193,7 +193,7 @@
   --border-radius-2: 2px;
   --border-radius-3: 3px;
   --border-radius-4: 4px;
-  --border-radius-6: 6px;
+  --border-radius-6: 888px;
   --border-radius-8: 8px;
   --border-radius-12: 12px;
   --border-radius-16: 16px;
@@ -203,4 +203,24 @@
   --box-shadow-2: [object Object];
   --box-shadow-3: [object Object];
   --box-shadow-4: [object Object];
+  --opacity-5: 0.05;
+  --opacity-10: 0.1;
+  --opacity-20: 0.2;
+  --opacity-25: 0.25;
+  --opacity-30: 0.3;
+  --opacity-40: 0.4;
+  --opacity-50: 0.5;
+  --opacity-60: 0.6;
+  --opacity-70: 0.7;
+  --opacity-75: 0.75;
+  --opacity-80: 0.8;
+  --opacity-90: 0.9;
+  --opacity-95: 0.95;
+  --text-decoration-none: none;
+  --text-decoration-underline: underline;
+  --text-decoration-line-through: line-through;
+  --text-case-none: none;
+  --text-case-uppercase: uppercase;
+  --text-case-lowercase: lowercase;
+  --text-case-capitalize: capitalize;
 }
